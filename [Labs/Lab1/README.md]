@@ -1,0 +1,40 @@
+# Lab 03 – Machine Learning Workflow & Types of Learning  
+ITAI 1371 – Elijah Raines
+
+## Overview
+This was my first machine learning lab, and it introduced the basics of the machine learning workflow and the three main types of machine learning. I learned how ML models are built step-by-step, how data is prepared, and how different algorithms make predictions.
+
+## What I Learned
+
+### 🔹 Machine Learning Types
+From the lab materials:
+
+- **Supervised Learning** – Uses labeled data (examples include predicting prices or classifying emails).  
+- **Unsupervised Learning** – Finds patterns or groups in data without labels.  
+- **Reinforcement Learning** – Learns through rewards and penalties using trial and error.
+
+### 🔹 Complete ML Workflow  
+Using the Wine dataset, I followed the full ML process:
+
+1. **Data Preparation & EDA**  
+   - Explored features, class distributions, and correlations.  
+   - Used charts, tables, and visualizations to understand the data.
+
+2. **Model Training**  
+   - Trained **Logistic Regression** and **Decision Tree** models.  
+   - Learned how algorithms recognize patterns in the dataset.
+
+3. **Model Evaluation**  
+   - Evaluated accuracy, precision, recall, and confusion matrix results.  
+   - Logistic Regression performed well, especially compared to feature-selected models I tested.
+
+4. **Feature Selection Practice**  
+   - Tested different feature combinations to observe changes in model accuracy.  
+   - Learned how choosing the right features impacts performance.
+
+### 🔹 Reflection
+Based on my written reflection:
+- I now understand how each step of the ML workflow connects.  
+- I learned why splitting data into training and testing sets is important.  
+- The most challenging part was selecting the right features.  
+- I feel more confident using Decision Trees and evaluating model results.
