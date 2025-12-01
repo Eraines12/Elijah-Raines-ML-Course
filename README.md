@@ -27,8 +27,9 @@ Included feature selection, model evaluation, and reflections.
 
 **Files:**
 - [Labs/Lab1/README.md](https://github.com/Eraines12/Elijah-Raines-ML-Course/blob/main/Labs/Lab1/README.md)
-- [Labs/Lab1/Module_03_ElijahRaines_Lab_Exercise.ipynb](https://github.com/Eraines12/Elijah-Raines-ML-Course/blob/main/Labs/Lab1/Module_03_ElijahRaines_Lab_Exercise.ipynb)
-- [Labs/Lab1/ITAI 1371_ Elijah Raines_Lab_03.docx](https://github.com/Eraines12/Elijah-Raines-ML-Course/blob/main/Labs/Lab1/ITAI%201371_%20Elijah%20Raines_Lab_03.docx)
+- [Labs/Lab1/Module_03_ElijahRaines_Lab_Exercise.ipynb]_[Module_03_ElijahRaines_Lab_Exercise.ipynb - Colab-1.pdf](https://github.com/user-attachments/files/23866691/Module_03_ElijahRaines_Lab_Exercise.ipynb.-.Colab-1.pdf)
+- [Labs/Lab1/ITAI 1371_ Elijah Raines_Lab_03.docx]-[ITAI 1371_ Elijah Raines_Lab_03_  (1)-1.docx](https://github.com/user-attachments/files/23866700/ITAI.1371_.Elijah.Raines_Lab_03_.1.-1.docx)
+
 
 ---
 
